@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "alg": "ECDH-P256",
+  "jwk": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "5Ktz6GaPsaYWGUg_R1Br1ZCD9IUUTkpjf4beZMlsMm4",
+    "y": "cVD5tUn57gibLl_D1xNqqK5SARE_9GYFR4CEuNzcZbY"
+  },
+  "fingerprint": "f9deda31fa8a45b6f10d"
+}
